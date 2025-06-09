@@ -1,0 +1,11 @@
+CSS
+
+CSS stands for Cascading Style Sheet
+It is a Style language which is used to describe the presentation of a document written in markup language
+it controls how elements on a web page are displayed , including layout, colors, fonts, and spacing.
+
+types of CSS
+
+Inline CSS
+Internal CSS
+External CSS
